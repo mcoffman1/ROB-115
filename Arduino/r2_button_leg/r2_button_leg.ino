@@ -76,7 +76,7 @@ void setup()
   M5.attach(11,1000,2000);
   delay(2000);
 
-  leg.write(0);
+  leg.write(160);
 }
 
 void loop() 

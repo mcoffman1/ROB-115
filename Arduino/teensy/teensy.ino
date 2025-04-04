@@ -17,24 +17,24 @@ void setup()
   head.write(90);
   
   //========================
-  //==160-forward to 90-back
+  //==160-forward 130 middle to 90-back
   //========================
-  right_shoulder.write(130);
+  right_shoulder.write(110);
   
   //========================
-  //==80-forward to 150-back
+  //==80-forward 113 middle to 150-back
   //========================
-  left_shoulder.write(113);
-  
-  //========================
-  //60-forward 55-center
-  //========================
-  right_ankle.write(55);
+  left_shoulder.write(130);
   
   //========================
   //60-forward 55-center
   //========================
-  left_ankle.write(55);
+  right_ankle.write(60);
+  
+  //========================
+  //65-forward 55-center
+  //========================
+  left_ankle.write(60);
  
 }
 int pos = 0;
