@@ -40,6 +40,3 @@ This repository may be updated during the course. Be sure to check for updates o
 ---
 
 Stay curious, keep experimenting, and have fun learning ROS! 🦾
-
-alkdsdjfla `this_is_a_command` alkdsjf
-
